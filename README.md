@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 11 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 
 ---
 
@@ -53,6 +53,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 
 ### math
 
@@ -74,6 +75,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 
 ---
 
