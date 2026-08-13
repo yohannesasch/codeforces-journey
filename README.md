@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 7 |
+| 15 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
@@ -49,6 +49,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/116/A%20-%20Tram/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
