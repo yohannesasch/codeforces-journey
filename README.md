@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 7 |
+| 16 | 7 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (12)
 - [math](#math) (2)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (6)
 
 ---
@@ -39,6 +39,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
@@ -70,6 +71,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ### strings
