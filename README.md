@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 8 |
+| 18 | 11 |
 
 ---
 
@@ -14,10 +14,13 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
+- [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (6)
 
@@ -36,6 +39,18 @@
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 
 ### greedy
 
@@ -57,6 +72,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
@@ -74,6 +90,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/yohannesasch/codeforces-journey/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 
 ### sortings
 
